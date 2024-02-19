@@ -42,4 +42,3 @@ spec:
       protocol: 
       port: 27017
       targetPort: 27017
-
